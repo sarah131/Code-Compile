@@ -1,4 +1,4 @@
-# Code-Compile
+# Hackerank & Skillrack Solutions
 Includes coding questions and their outputs from different platforms such as Skillrack and HackerRank. 
 
 ### Codes are given in 3 different languages:
